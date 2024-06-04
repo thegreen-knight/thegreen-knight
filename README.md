@@ -9,17 +9,17 @@ I'm interested in developing my personal brand as a programmer and security expe
 I'm currently improving my JavaScript skills because I recently built a program that pushed my JS knowledge farther and it has made me want to learn more.
 
 ### Programming Languages I am strong in
-PHP
-Python
-Bash
-JavaScript
-MySQL
+- PHP
+- Python
+- Bash
+- JavaScript
+- MySQL
 
 ### Programming Lanuages I know enough to get by
-HTML
-CSS
-Powershell
-Go
+- HTML
+- CSS
+- Powershell
+- Go
 
 ### Programs I have built but can't post
 <b>User platform:</b> I built the backend of a online user platform for employees and client's to login to. The client's can view reports and send information to the company about their issue and employees can login, respond, input data, and upload files. The platform was built from the ground up not using any frameworks. Since it was built for a cybesecurity company it had to be as full proof as possible.
