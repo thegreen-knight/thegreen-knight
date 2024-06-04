@@ -23,6 +23,7 @@ Go
 
 ### Programs I have built but can't post
 <b>User platform:</b> I built the backend of a online user platform for employees and client's to login to. The client's can view reports and send information to the company about their issue and employees can login, respond, input data, and upload files. The platform was built from the ground up not using any frameworks. Since it was built for a cybesecurity company it had to be as full proof as possible.
+<br>
 <b>Desktop application for documenting: </b>I built the backend of a desktop aplication that allows users to document processes for a certification. The application was built using ElectronJS. I created a custom database that the program uses on the user's machine. The idea was that the user would own their data and we wouldn't be responsible for maintaining any of it. I for the storage I developed a basic method of encrypting and decrypting the data to protect the data from being tampered with by other programs.
 
 ## Programming Projects
