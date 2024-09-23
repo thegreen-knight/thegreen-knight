@@ -32,6 +32,7 @@ I'm currently improving my JavaScript skills because I recently built a program 
 * PassHound
 * Home Network Checker
 * My Linux Setup
+* [Subdomain finding strategy](https://github.com/thegreen-knight/Subdomain-Strategy-for-Pentesting)
 * [Madness Unveiled - A terminal based game](https://github.com/thegreen-knight/Madness-Unveiled)
 * UsernameHunter
 * Chain of Custody App
