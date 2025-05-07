@@ -1,48 +1,82 @@
-# My-Portfolio
+# Josh Light – Programmer & Security Expert
 
-My name is Josh and I am a programmer, security expert, and all around creative. I have been working in cybersecurity for
-the last 4 years with a startup company. I have developed programs for that company but I have not published any of my own
-programs so that is what I plan on doing here. I have a bunch of directories filled with programs that I built but never did anything with.
+Welcome to my GitHub! My name is Josh, and I’m a cybersecurity analyst and programmer with a passion for building creative, secure, and efficient software. For the past four years, I’ve worked in the cybersecurity field—primarily with a startup—where I built internal tools and platforms from the ground up.
 
-I'm interested in developing my personal brand as a programmer and security expert as a way to grow personally and professionally.
+Now, I’m focusing on sharing more of my work publicly to grow my personal brand, expand my open-source contributions, and connect with like-minded professionals in the tech space.
 
-I'm currently improving my JavaScript skills because I recently built a program that pushed my JS knowledge farther and it has made me want to learn more.
+---
 
-### Programming Languages I am strong in
-- PHP
-- Python
-- Bash
-- JavaScript
-- MySQL
+## 🔐 About Me
 
-### Programming Lanuages I know enough to get by
-- HTML
-- CSS
-- Powershell
-- Go
-- Java
+- 💼 **Cybersecurity Analyst II** with hands-on experience in incident response, vulnerability assessment, and secure system design.
+- 🎓 Currently completing a **Bachelor’s in Applied Arts and Sciences** (Concentration: Cyber Crime) at the University of North Texas.
+- 🧠 Lifelong learner with a recent certification in **AI Foundations: Machine Learning**.
+- 👨‍💻 Passionate about creative problem-solving and building tools that blend usability with security.
 
-### Programs I have built but can't post
-<b>User platform:</b> I built the backend of a online user platform for employees and client's to login to. The client's can view reports and send information to the company about their issue and employees can login, respond, input data, and upload files. The platform was built from the ground up not using any frameworks. Since it was built for a cybesecurity company it had to be as full proof as possible.
-<br>
-<b>Desktop application for documenting: </b>I built the backend of a desktop aplication that allows users to document processes for a certification. The application was built using ElectronJS. I created a custom database that the program uses on the user's machine. The idea was that the user would own their data and we wouldn't be responsible for maintaining any of it. I for the storage I developed a basic method of encrypting and decrypting the data to protect the data from being tampered with by other programs.
+---
 
-## Programming Projects
-* WhoisPhone
-* PassHound
-* Home Network Checker
-* My Linux Setup
-* [Subdomain finding strategy](https://github.com/thegreen-knight/Subdomain-Strategy-for-Pentesting)
-* [Madness Unveiled - A terminal based game](https://github.com/thegreen-knight/Madness-Unveiled)
-* UsernameHunter
-* Chain of Custody App
-* [Another File Manager](https://github.com/thegreen-knight/Another-File-Manager)
+## 💻 Skills & Technologies
 
-## Future Programming Project Ideas
-Cybersecurity Health Check
-Personal Cybersecurity Health Check
+**Languages (Proficient):**  
+Python, PHP, Bash, JavaScript, Java, SQL, HTML
 
-## Non-Programming Projects
-[CMMC Guide](https://github.com/thegreen-knight/CMMCguide)
-[Scammers and Scum](https://github.com/thegreen-knight/Scammers-and-other-Scum)
-PCI Guide
+**Languages (Working Knowledge):**  
+CSS, PowerShell, Go
+
+**Tools & Concepts:**  
+Linux Administration, Web App Development, Wireshark, NMAP, SIEM tools, CMMC / HIPAA / PCI-DSS compliance
+
+---
+
+## 🛠️ Projects
+
+Here are some of the projects I’ve created or am actively working on:
+
+### 🧰 Utilities & Tools
+- **WhoisPhone** – A tool for identifying phone number metadata.
+- **PassHound** – A password generation and management utility.
+- **Home Network Checker** – Diagnostic tool for home network security.
+
+### 🕹️ Terminal-Based Games
+- **[Madness Unveiled](https://github.com/thegreen-knight/Madness-Unveiled)** – A text-based horror game written in python and digital paranoia. **Currently being remade using Java**
+
+### 📂 System Utilities
+- **[Another File Manager](https://github.com/thegreen-knight/Another-File-Manager)** – Lightweight file manager with encryption logic.
+- **UsernameHunter** – Tool to track down username usage across platforms.
+
+### 🌐 Web Security
+- **[Subdomain Strategy for Pentesting](https://github.com/thegreen-knight/Subdomain-Strategy-for-Pentesting)** – Tactical guide to identifying subdomain exposure.
+
+---
+
+## 🔒 Private Projects (Non-Public)
+
+While these are not available on GitHub, they demonstrate my real-world development experience:
+
+- **Secure Client Platform**  
+  Built a custom login/reporting platform without frameworks for a cybersecurity company, emphasizing privacy and integrity.
+
+- **Desktop Documentation Tool**  
+  Created in ElectronJS with local database encryption for certification compliance documentation.
+
+---
+
+## 🌱 In Progress & Ideas
+
+- Cybersecurity Health Check Tools  
+- Personal Risk Evaluation Software
+
+---
+
+## 📘 Non-Technical Work
+
+- **[CMMC Guide](https://github.com/thegreen-knight/CMMCguide)** – Simplified guide to CMMC compliance.
+- **[Scammers and Scum](https://github.com/thegreen-knight/Scammers-and-other-Scum)** – Ongoing documentation project on online fraud tactics.
+- **PCI Guide** – A future project aimed at making PCI-DSS accessible to small orgs.
+
+---
+
+## 📫 Let’s Connect
+
+- ✉️ josh@greenknight.email 
+- 📍 Fort Worth, TX
