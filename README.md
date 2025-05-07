@@ -1,4 +1,4 @@
-# Josh Light – Programmer & Security Expert
+# Josh – Programmer & Security Expert
 
 Welcome to my GitHub! My name is Josh, and I’m a cybersecurity analyst and programmer with a passion for building creative, secure, and efficient software. For the past four years, I’ve worked in the cybersecurity field—primarily with a startup—where I built internal tools and platforms from the ground up.
 
