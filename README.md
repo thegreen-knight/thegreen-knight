@@ -9,7 +9,7 @@ Now, I’m focusing on sharing more of my work publicly to grow my personal bran
 ## 🔐 About Me
 
 - 💼 **Cybersecurity Analyst II** with hands-on experience in incident response, vulnerability assessment, and secure system design.
-- 🎓 Currently completing a **Bachelor’s in Applied Arts and Sciences** (Concentration: Cyber Crime) at the University of North Texas.
+- 🎓 Completed a **Bachelor’s in Applied Arts and Sciences** (Concentration: Cyber Crime) at the University of North Texas.
 - 🧠 Lifelong learner with a recent certification in **AI Foundations: Machine Learning**.
 - 👨‍💻 Passionate about creative problem-solving and building tools that blend usability with security.
 
